@@ -1,0 +1,50 @@
+.login-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.login-card{
+  width: 40%;
+  height: 60vh;
+  border: 1px solid rgb(7, 150, 179);
+  border-radius: 5px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.input-container{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.form-contol{
+  width: 70%;
+  width: 70%;
+  height: 25px;
+  border-radius: 5px;
+  border: 1px solid #aca9a9;
+}
+
+.login-button{
+  width: 100px;
+  height: 30px;
+  background-color: rgb(108, 249, 108);
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  margin-right: 20px;
+}
+
+.reset-button{
+  width: 100px;
+  height: 30px;
+  background-color: rgb(0, 155, 221);
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}

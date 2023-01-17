@@ -1,0 +1,16 @@
+.cart-container{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  flex-wrap: wrap;
+}
+
+.cart-card{
+  width: 60%;
+  padding: 15px;
+  border: 1px solid rgb(128, 125, 125);
+  margin-bottom: 10px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+}

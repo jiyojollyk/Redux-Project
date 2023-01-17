@@ -1,0 +1,22 @@
+.card-container{
+  width: 23%;
+  padding: 10px;
+  border: 1px solid #868282;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.card-header{
+
+}
+
+.button-primary{
+  background-color: rgb(211, 181, 30);
+  border: none;
+  color:#fff;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+  cursor: pointer;
+}
